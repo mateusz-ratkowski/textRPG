@@ -83,3 +83,7 @@ The game parses specially formatted text files to create the story. Key elements
 
 This project is licensed under the CC0 1.0 Universal License.
 
+## Aditional notes
+
+This project originated as a creative endeavor during high school. While it served as a fun experiment, there are no current plans for further development.
+

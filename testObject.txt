@@ -1,0 +1,30 @@
+wt: szklany hol {
+    wchodzisz do wielkiego przeszklonego budynku a przed twoimi oczyma rysuje się ogromny posąg
+    widzisz tam coś. <-
+
+    -> przyglądam mu się *redFlag: red* *blackFlag : false*; pogawędka *blackFlag: true*;
+    -> idę dalej; wieczne biura;
+    -> sprawdzam czy to dalej działa; cos;
+    -> i jeszcze jedno *ebe ebe: ci zajebe*; cos;
+}
+
+wt: wieczne biura {
+    przechodząc dalej zaczynasz zauważać rzędy biur biegnące coraz dalej i dalej
+    aż w końcu wchodzisz do wielkiego przeszklonego budynku a przed twoimi oczyma rysuje się ogromny posąg <-
+
+    -> przyglądam mu się *blackFlag: true*; pogawędka;
+    -> idę dalej; wieczne biura *blackFlag: true*;
+}
+
+wt: pogawędka {
+    Ładny wieczór dzisiaj mamy, nie prawdasz? - zagaduje młoda kobieta <-
+
+    -> prawda, niczego sobie *pierwszy warunek* *drugi warunek* * trzeci *; END;
+}
+
+[
+    *blackFlag: false*
+    *redFlag: red*
+    *numberFlag: 6*
+    *nullFlag: *
+]
